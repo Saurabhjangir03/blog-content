@@ -12,3 +12,7 @@ A simple and responsive blog website built using HTML, CSS, and JavaScript.
 
 ## 📁 Folder Structure
 
+
+
+this  is  a simple blog  website   using html,css grid
+
